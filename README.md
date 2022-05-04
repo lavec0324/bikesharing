@@ -9,27 +9,27 @@ xState Purpose
 
 Top Starting Locations
 
-![](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
+x![](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Ending locations
 
-![](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
+x![](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 Trips by Weekday per Hour
 
-![](https://public.tableau.com/views/TripsbyWeekdayperHour_16516232987390/TripsbyWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
+x![](https://public.tableau.com/views/TripsbyWeekdayperHour_16516232987390/TripsbyWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
 Checkout Times by Gender
 
-![](https://public.tableau.com/views/CheckoutTimesbyGender_16516220965410/CheckoutTImesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+x![](https://public.tableau.com/views/CheckoutTimesbyGender_16516220965410/CheckoutTImesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 Trips by Weekday per Hour
 
-![](https://public.tableau.com/views/TripsbyWeekdayperHour_16516232987390/TripsbyWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
+x![](https://public.tableau.com/views/TripsbyWeekdayperHour_16516232987390/TripsbyWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
