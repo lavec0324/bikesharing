@@ -23,6 +23,13 @@ Ending Stations - also return similar results with high density in mid-Town sugg
 [Ending Stations](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
+Checkout Times for Users
+
+![Checkout Times for Users](https://github.com/lavec0324/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png)
+
+[Checkout Times for Users](https://public.tableau.com/views/CheckoutTimeforUsers_16516218685020/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 Checkout Times by Gender
 
 ![Checkout Times by Gender](https://github.com/lavec0324/bikesharing/blob/main/Resources/Checkout%20TImes%20by%20Gender.png)
