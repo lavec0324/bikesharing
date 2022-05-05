@@ -23,14 +23,14 @@ Ending Stations - also return similar results with high density in mid-Town sugg
 [Ending Stations](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-Checkout Times for Users
+Checkout Times for Users - Amount of time for users is approximately 5 mins.
 
 ![Checkout Times for Users](https://github.com/lavec0324/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png)
 
 [Checkout Times for Users](https://public.tableau.com/views/CheckoutTimeforUsers_16516218685020/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-Checkout Times by Gender
+Checkout Times by Gender - Porportionately larger population of users are male.
 
 ![Checkout Times by Gender](https://github.com/lavec0324/bikesharing/blob/main/Resources/Checkout%20TImes%20by%20Gender.png)
 
@@ -44,20 +44,20 @@ Trips by Weekday per Hour - Indicates high volumes during commuting hours before
 [Trips by Weekday per Hour](https://public.tableau.com/views/TripsbyWeekdayperHour_16516232987390/TripsbyWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-Trips by Gender (Weekday per Hour)
+Trips by Gender (Weekday per Hour) - Peaks are similar for male and female but ride counts are much less for female.
 ![Trips by Gender (Weekday per Hour)](https://github.com/lavec0324/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 [Trips by Weekday per Hour](https://public.tableau.com/views/TripsbyWeekdayperHour_16516232987390/TripsbyWeekdayperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-User Trips by Gender by Weekday
+User Trips by Gender by Weekday - Subscribers are much more frequent riders than customers with heaviest days on Thursdays.
 
 ![User Trips by Gender by Weekday](https://github.com/lavec0324/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 [User Trips by Gender by Weekday](https://public.tableau.com/views/UserTripsbyGenderbyWeekday_16516234822140/UserTripsbyGenderbyWeekday?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-Story
+Story - follow along in the story captions.
 
 ![](https://github.com/lavec0324/bikesharing/blob/main/Resources/NYC%20Bike%20Trip.png)
 
@@ -65,8 +65,16 @@ Story
 
 ## Summary
 
+In general the data seems to suggest the following:
 
+* An average duration of about 5 mins rides regardless of gender
+* Males utilize the bikes much more than woman
+* Subscribers utilize much more than customers especially during weekdays and on Thursday most often
 
+Suggested improvements:
+
+* Create a chart that shows trips not by bike id but by customer id to show whether subscribers are using bikes to commute to and from on daily basis.
+* Show repeating customers that have taken multiples rides (maybe more than 10) to see how many people would benefit from being offered subscriptions and how much they would have saved.
 
 
 
