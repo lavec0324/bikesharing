@@ -3,13 +3,13 @@ Module 14
 
 ## Overview of the Analysis
 
+This analysis is using information from [citibike](https://ride.citibikenyc.com/system-data) from the month of August 2019.  The purpose of this data is to allow us to analyze information about trip data for riders of citibikes through the city of NY.  We wil be using Tableau to analyze the data and ascertain patterns based on several different charts which will produce a story.
 
-xState Purpose
-## Photos (change links)
+## Results
 
 Top Starting Locations
 
-x![](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
+![Top Starting Locations](https://github.com/lavec0324/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png)
 
 Ending locations
 
