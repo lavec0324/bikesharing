@@ -10,6 +10,7 @@ This analysis is using information from [citibike](https://ride.citibikenyc.com/
 Top Starting Locations
 
 ![Top Starting Locations](https://github.com/lavec0324/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png)
+[Top Starting Locations](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Ending locations
 
@@ -48,7 +49,7 @@ Story
 
 ## Results
 
-[Top Starting Locations](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 [Ending locations](https://public.tableau.com/views/EndingStationLatitude/EndingStationLatitude?:language=en-US&:display_count=n&:origin=viz_share_link)
 
